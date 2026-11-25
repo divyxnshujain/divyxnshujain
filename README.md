@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Divyanshu Jain! 👋
 
-<!--
-**divyxnshujain/divyxnshujain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | B.Tech CSE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 💻 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Python and Web Development
+- 🔭 Building projects and improving my coding skills
+- 🎯 Goal: Become a skilled AI/ML Engineer
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Languages | Python, JavaScript |
+| Web Development | HTML, CSS |
+| Tools | Git, GitHub, VS Code |
+| Interests | AI, Machine Learning |
+
+## 💻 Featured Projects
+
+- [My Portfolio](./)
+- [GitHub Projects](https://github.com/)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/
+- LinkedIn: Add your LinkedIn URL here
+
+---
+
+⭐ Thanks for visiting my profile!
